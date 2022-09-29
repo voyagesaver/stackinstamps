@@ -37,7 +37,7 @@
     "versionFirst": "5.6.11",
     "siteFonts": [],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mcSmartCart": {
       "currency": "USD"
     },
