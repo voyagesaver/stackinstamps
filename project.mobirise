@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Stackin Stamps",
-    "currentPage": "index.html",
+    "currentPage": "shop.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -43,7 +43,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "mcSmartCart": {
       "currency": "USD"
     },
@@ -3867,24 +3867,6 @@
         "title": "Shop"
       },
       "components": [
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<div class=\"ec-cart-widget\"></div>\n<div>\n[JS_CODE_0]\n[JS_CODE_1]\n</div>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_sourceTheme": "mobirise5",
-          "_anchor": "custom-html-1k",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?18287097&data_platform=code&data_date=2022-10-04\" charset=\"utf-8\"></script>",
-            "<script type=\"text/javascript\">Ecwid.init();</script>"
-          ]
-        },
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
