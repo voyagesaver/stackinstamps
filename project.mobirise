@@ -43,7 +43,7 @@
       }
     ],
     "imageResize": true,
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "mcSmartCart": {
       "currency": "USD"
     },
